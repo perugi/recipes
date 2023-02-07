@@ -1,0 +1,46 @@
+body {
+    font-family: "Open Sans", sans-serif;
+    max-width: 70ch;
+    margin: 0 auto;
+}
+
+h1 {
+    background-color: aqua;
+    margin: 0 0 10px;
+    padding: 100px;
+    text-align: center;
+    font-size: 60px;
+    color: blue;
+    border-bottom: solid blue 20px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.recipe {
+    background-color: orange;
+    color: brown;
+    border-bottom: solid brown 20px;
+}
+
+ul {
+    list-style: none;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h2 {
+    background-color: orange;
+    color: brown;
+    padding: 10px;
+    text-align: center;
+}
+
+h2:last-of-type {
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
