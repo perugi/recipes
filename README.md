@@ -1,2 +1,2 @@
-# odin-recipes
-Solution to the HTML Foundations project of The Odin Project (https://www.theodinproject.com/lessons/foundations-recipes).
+# Recipes
+A simple web-page containing multiple recipes, built using simple HTML and CSS.
